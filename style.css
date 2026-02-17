@@ -7,9 +7,9 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-/*     font-family: consolas; */
-    
+    /* font-family: consolas; */
 }
+
 html{
     scroll-behavior: smooth;
 }
@@ -411,7 +411,7 @@ section .title::after{
     background:rgba(255, 255, 255, 0.05);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    backdrop-filter: blur(10ox);
+    backdrop-filter: blur(10px);
     z-index: 1;
     transition: 0.5s;
     color: #fff;
@@ -482,7 +482,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/2334/PNG/512/pen_tool_anchor_point_design_icon_142354.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nVti43viA7zGY4aT_1Zl4x1DmtKumRybsA&s") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -494,7 +494,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/1145/PNG/512/codeoutlinedprogrammingsigns_81143.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF69Q0LbCAHsUsBSMRfpRCqFV9iYhhFEoAbUQM0YH4OStekqzXfdHlKy0NbHhvAKtlfqg&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -506,7 +506,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/icons8/ios7/256/Network-Workstation-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBNJrQU54zpor2AaBmADUzklEbtsm8Vom80ehqjckxPwmD576ps8w5pL_DuH07Zv7gio&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -518,7 +518,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/pixelkit/swanky-outlines/256/08-Wrench-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-oOtnouJtowhK4mGIQgcQkegp1JPRDQ2uTQSKJILGejAS_05Lwt1OzM8393uPltq33k&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -530,7 +530,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/ionic/ionicons/256/game-controller-outline-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSCLiWsprJinopJ3cXHAVJKSGbOMQNAkwicjaqFcPyNMn_64wujg-P_H20bOSaDsWzAA&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -542,7 +542,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/936/PNG/512/android-character-symbol_icon-icons.com_73684.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLcw6Qb4ZARhGxmBlr2CC85A4sXU9uSrU5tpl59C9BzEs-pHlaQJ2bOpeYDKaw5xcNLw&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
@@ -572,7 +572,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/936/PNG/512/android-character-symbol_icon-icons.com_73684.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLcw6Qb4ZARhGxmBlr2CC85A4sXU9uSrU5tpl59C9BzEs-pHlaQJ2bOpeYDKaw5xcNLw&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -583,7 +583,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/ionic/ionicons/256/game-controller-outline-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSCLiWsprJinopJ3cXHAVJKSGbOMQNAkwicjaqFcPyNMn_64wujg-P_H20bOSaDsWzAA&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -595,7 +595,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/pixelkit/swanky-outlines/256/08-Wrench-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-oOtnouJtowhK4mGIQgcQkegp1JPRDQ2uTQSKJILGejAS_05Lwt1OzM8393uPltq33k&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -606,7 +606,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://icons.iconarchive.com/icons/icons8/ios7/256/Network-Workstation-icon.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBNJrQU54zpor2AaBmADUzklEbtsm8Vom80ehqjckxPwmD576ps8w5pL_DuH07Zv7gio&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -617,7 +617,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/1145/PNG/512/codeoutlinedprogrammingsigns_81143.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF69Q0LbCAHsUsBSMRfpRCqFV9iYhhFEoAbUQM0YH4OStekqzXfdHlKy0NbHhvAKtlfqg&usqp=CAU") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -628,7 +628,7 @@ section .title::after{
     width: 100px;
     height: 100px;  
     opacity: 1;
-    background: url("https://cdn.icon-icons.com/icons2/2334/PNG/512/pen_tool_anchor_point_design_icon_142354.png") no-repeat;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nVti43viA7zGY4aT_1Zl4x1DmtKumRybsA&s") no-repeat;
     background-size: 100px;
     background-position: center;
 }
@@ -907,15 +907,15 @@ input,textarea
   color: white;
   background: crimson;
 }
-/* footer section styling */
 
+/* footer section styling */
 footer
 {
     position: relative;
     width: 100%;
     background: #2f005b;
     min-height: 100px;
-    /* padding: 20px 50px; */
+    padding: 15px 0px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -937,17 +937,16 @@ footer h2
 {
     position: relative;
     list-style: none;
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 75px;
+    font-size: 1.2em;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     transition: 0.5s;
-
-
 }
-#media  li a
+#media li a
 {
     position: relative;
     text-decoration: none;
@@ -955,15 +954,14 @@ footer h2
     z-index: 10;
     font-size: 2em;
     transition: 0.5s ease-in-out;
-
 }
-#media  li:hover
+#media li:hover
 {
     z-index: 100000;
     transform: scale(0.75);
     transform: translateY(-10px);
 }
-#media  li::before
+#media li::before
 {
     content: '';
     position: absolute;
@@ -973,11 +971,11 @@ footer h2
     0 0 0 22px var(--clr);
     transition: 0.5s;
 }
-#media  li:hover::before
+#media li:hover::before
 {
   inset: 0px;
 }
-#media  li::after
+#media li::after
 {
     content: '';
     position: absolute;
@@ -1080,6 +1078,7 @@ footer .wave#wave4
     z-index: 1000;
     /* border-radius: 12px; */
 }
+
 /* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-content .left img{
@@ -1209,5 +1208,22 @@ footer .wave#wave4
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+}
+
+@media (max-width: 600px) {
+    .container{
+        cursor: auto;
+    }
+    .container .box .content{
+        position: static;
+    }
+    #media li {
+        width: 80px;
+        height: 60px;
+        font-size: 1em;
+    }
+    footer, .navbar.sticky{
+        padding: 10px 0;
     }
 }

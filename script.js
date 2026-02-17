@@ -85,7 +85,7 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing-3", {
-        strings: ["Connect with me on :)"],
+        strings: ["Find me on :)"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
